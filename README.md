@@ -8,7 +8,8 @@ rDCM - regression Dynamic Causal Modeling.
 This README provides the relevant information on the regression dynamic causal modeling (rDCM)
 toolbox.
 
-> **_NOTE:_** There is a new implementation of rDCM in the Julia language which can be found [here](https://github.com/ComputationalPsychiatry/RegressionDynamicCausalModeling.jl).
+> [!IMPORTANT]
+> There is a new implementation of rDCM in the [Julia language](https://julialang.org/) which can be found [here](https://github.com/ComputationalPsychiatry/RegressionDynamicCausalModeling.jl).
 
 -------------------
 General information
